@@ -1,0 +1,10 @@
+- top-down grid view, like angband
+- multiple floors?
+- aim: lead people to safety
+- you play as a bad-ass librarian
+- library users have varying levels of obstinacy
+- you have a limited amount of 'voice' you can use to shout at particularly
+  obstinate people to make them move faster
+- randomly generated people/levels/fires?
+- annoying issues, like staircases not spanning the whole height of the building
+- fires get progressively worse over time
